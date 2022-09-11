@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on [Serendipia](https://serendipia.digital/)
 - 🌱 I’m currently learning --> WordPress theme development
-- 💬 Ask me about ...
 - 📫 How to reach me: trujas_2309@hotmail.com
 - ⚡ Hobbies: Chess♟️, Exercise🏋️
 
